@@ -1,6 +1,7 @@
 Home of FE fontana-entertainment.github.io
 
 Basic Information:
+
 👋 Hi, we're @fontana-entertainment
 
 👀 We're interested in ... Just about anything creative
