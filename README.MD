@@ -1,16 +1,9 @@
-Home of FE fontana-entertainment.github.io
+Add /index.html to the end of the website such as fontana-entertainment.github.io/index.html
+so it's not missing it which will take you to the homepage
 
-Basic Information:
+(Because normally using just fontana-entertainment.github.io takes you over to here and not
+like you would be normally used to access a website
 
-👋 Hi, we're @fontana-entertainment
-
-👀 We're interested in ... Just about anything creative
-
-🌱 We're currently learning ... The Entertainment Field Industry
-
-💞️ We're looking to collaborate on ... The whole website as a start
-
-📫 How to reach us? ... Here, email or the socials ^_^ Thank you visiting our site!
-
-Advanced Information:
-We are a place "where we think of everything for everyone" mostly we're specialized in the entertainment creative field where we try to think of all the possible ways to solve a problem creatively which would normally be unsolvable solely by logic itself. Games Development is how it started and what we're most passionate about but that's just a very small percentage of what we really do as we're all about exploring other fields and solutions.
+Also the actual index file is just the homepage however a filetree is planned (no promises)
+You can for now view it on github itself if you wish to see the sourcecode!
+Link for that is https://github.com/fontana-entertainment/fontana-entertainment.github.io/
